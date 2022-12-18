@@ -124,6 +124,8 @@ Command | Description
 • /stop | Leave from vc and clear the queue
 • /restart | restart your music player
 
+<p align="center"><a href="https://telegra.ph//file/f00bd43dbfeb0beefaac6.png" width="300"></a></p>
+
 ## 📃 <a name="license"></a>License
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
