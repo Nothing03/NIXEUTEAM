@@ -93,8 +93,7 @@ $ sudo docker run musicplayer
 - `SUDOERS`: ID of sudo users (separate multiple ids with space).
 - `BOT_TOKEN`: Telegram bot token from https://t.me/botfather. (optional)
 - `QUALITY`: Custom stream quality (high/medium/low) for the userbot in vc. Default: `high`
-- `PREFIX`: Bot commad prefixes (separate multiple prefix with space). Eg: `! /`
-- `LANGUAGE`: An [available](#languages) bot language (can change it anytime). Default: `en`
+- `PREFIX`: Bot commad prefixes (separate multiple prefix with space). Eg: `/`
 - `STREAM_MODE`: An stream mode like audio or video (can change it anytime). Default: `audio`
 - `ADMINS_ONLY`: Put `True` if you want to make /play commands only for admins. Default: `False`
 - `SPOTIFY_CLIENT_ID`: Spotify client id get it from [here](https://developer.spotify.com/dashboard/applications). (optional)
