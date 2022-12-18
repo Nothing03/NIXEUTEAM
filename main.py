@@ -87,7 +87,7 @@ async def help(_, message: Message, lang):
 
 
 @client.on_message(
-    filters.command(["/p", "/play"], config.PREFIXES) & ~filters.private & ~filters.edited
+    filters.command(["p", "play"], config.PREFIXES) & ~filters.private & ~filters.edited
 )
 @register
 @language
