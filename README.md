@@ -48,11 +48,6 @@ the place it is hosted!
 Allows you to stream different things in multiple chats simultaneously. Each
 chat will have its own song queue.
 
-### 🗣 Speaks different languages
-
-Music Player is multilingual and speaks [various languages](#languages),
-thanks to the translators.
-
 ## 🚀 <a name="deploy"></a>Deploy
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.safone.tech)
