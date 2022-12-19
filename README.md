@@ -123,8 +123,6 @@ Command | Description
 • /stop | Leave from vc and clear the queue
 • /restart | restart your music player
 
-<p align="center"><a href="https://t.me/NIXEU_MUSIC"><img src="https://telegra.ph//file/6f51b9fe244bc773c29db.png" width="300"></a></p>
-
 ## 📃 <a name="license"></a>License
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
