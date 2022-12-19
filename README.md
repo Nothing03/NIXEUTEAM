@@ -1,7 +1,7 @@
 <h1 align= center><b>NIXEU MUSIC</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
-<p align="center"><a href="https://t.me/NIXEU_MUSIC"><img src="https://telegra.ph//file/5f168e154d36376f6626e.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/NIXEU_MUSIC"><img src="https://telegra.ph//file/a71334d90daaad1baf16c.png" width="300"></a></p>
 
 ## ✨ <a name="features"></a>Features
 
