@@ -123,7 +123,7 @@ Command | Description
 • /stop | Leave from vc and clear the queue
 • /restart | restart your music player
 
-<p align="center"><a href="https://t.me/NIXEU_MUSIC"><img src="https://telegra.ph//file/7092c38f43adc06db32c1.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/NIXEU_MUSIC"><img src="https://telegra.ph//file/6f51b9fe244bc773c29db.png" width="300"></a></p>
 
 ## 📃 <a name="license"></a>License
 
