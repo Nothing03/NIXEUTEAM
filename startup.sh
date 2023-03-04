@@ -1,7 +1,7 @@
 echo ">> FETCHING UPSTREAM..."
 git clone https://github.com/AsmSafone/MusicPlayer /MusicPlayer
 echo ">> INSTALLING REQUIREMENTS..."
-cd /MusicPlayer
+cd / Music player
 pip3 install -U -r requirements.txt
 echo ">> STARTING MUSIC PLAYER USERBOT..."
 clear
