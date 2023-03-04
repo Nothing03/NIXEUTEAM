@@ -7,12 +7,12 @@ load_dotenv()
 
 class Config:
     def __init__(self) -> None:
-        self.API_ID: str = os.environ.get("API_ID", "21849173")
-        self.API_HASH: str = os.environ.get("API_HASH", "5d4ae6614b45dc890f3cbe3980c493f3")
-        self.SESSION: str = os.environ.get("SESSION", "AQBUa3P0U8HfcilFtPP84n6M4oTPhSWDqiDR2c-kCa4AMt46xk4TcoTi-Tf8-piRcZfF1JiQPXdoM2Q7zzAA5HdD0oVnnODtWdW_Df8irPCDcd4hbVtEWmiZFQLU4gYuNn-G5Mxk2_q8waPDv6B0FIuMJbugq7XD1Jm3T_t7rmwjbPXlX7QV8EcZb1JIJlncUo4toHovq9DU3egqND9vtWVFgnx_i3eBNpYQ2BfNW3yT0plDV892D3nOW8NGdHKO51yv1ehhtY4PWCEGPKF7WdYct8F6KtdpsHY0WqtR91MHKPSNfa_CXOVc-YaWL8viCNK6Pie4RtkZBE_iqgwuqg9EAAAAAUfAUeYA")
-        self.BOT_TOKEN: str = os.environ.get("BOT_TOKEN", "5939117192:AAEDVAjbrP25z7n8DNIPIQOqc1OeACat4Xo")
+        self.API_ID: str = os.environ.get("API_ID", "23489281")
+        self.API_HASH: str = os.environ.get("API_HASH", "5fd3d83fa943f0f3d05bf1964a6d77f3")
+        self.SESSION: str = os.environ.get("SESSION", "BQCmlWUTtuk9O9JqKzrwVjbiZA5fJv7bNgL4CqMeJ4y57nYxFTK6yN1kPE3F1TaAOfto-ph3QByA8oTGALS-dqJ_OWs1aC3lL1UOI4QgK95sxCz2tWFYo1IhWzMN-ov3Gq8M4LGJ5L7rRdQ7M8pf9kWuuRW9WITXAEDzvmKMuN37bIBwwOnG3HAsARiU6Fkk1fFDLWzR0uQ8wFceGQYFYwdaGaXXQb-udTQ9kUeq_afFUYnH9i5q4wlQbMZBNTgpy33LgPS_c9HRxNva3C3h8y6JNKrD_HYFiT8kS6Oi0XSFUGEv3oArtvFzatE_PSVxw8P-5ldeTcu4TmpSBzis3bUHAAAAAWiCwroA")
+        self.BOT_TOKEN: str = os.environ.get("BOT_TOKEN", "6257547712:AAHgzrWZDZWOBdxKSYtNaWAG8VpFDr9TVMI")
         self.SUDOERS: list = [
-            int(id) for id in os.environ.get("SUDOERS", "5498753510").split() if id.isnumeric()
+            int(id) for id in os.environ.get("SUDOERS", "6048367290").split() if id.isnumeric()
         ]
         if not self.SESSION or not self.API_ID or not self.API_HASH:
             print("ERROR: SESSION, API_ID and API_HASH is required!")
