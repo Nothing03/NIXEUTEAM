@@ -39,7 +39,7 @@ chat will have its own song queue.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/Nothing03/NIXEUTEAM)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nothing03/NIXEUTEAM)
     
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
